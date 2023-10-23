@@ -1,15 +1,15 @@
 <h1 align="center">👋 Hello there, I'm Omar Abdullah! </h1>
 
-<p align="center">🚀 I'm a passionate MERN stack developer with a strong drive to create innovative and efficient web applications.</p>
+<p align="center">**🚀 I'm a passionate MERN stack developer with a strong drive to create innovative and efficient web applications.**</p>
 
-💻 My tech stack:
+**💻 My tech stack:**
   - Frontend: React.js
   - Backend: Node.js, Express.js
   - Database: MongoDB
   - CSS: SASS/SCSS, Tailwind Css
   - Tools: Git, VS Code, Postman, Webpack
 
-🔨 What I do:
+**🔨 What I do:**
   - Design and develop responsive web applications
   - Create clean and maintainable code
   - Optimize performance for seamless user experiences
