@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello there, I'm Omar Abdullah! </h1>
 
-<p align="center" text="bold">🚀 I'm a passionate MERN stack developer with a strong drive to create innovative and efficient web applications.</p>
+<h3 align="center" >🚀 I'm a passionate MERN stack developer with a strong drive to create innovative and efficient web applications.</h3>
 
 **💻 My tech stack:**
   - Frontend: React.js
