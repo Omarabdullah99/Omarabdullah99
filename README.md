@@ -1,4 +1,4 @@
-👋 Hello there, I'm Omar Abdullah!
+<h1 align="center">👋 Hello there, I'm Omar Abdullah! </h1>
 
 🚀 I'm a passionate MERN stack developer with a strong drive to create innovative and efficient web applications.
 
