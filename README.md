@@ -9,8 +9,8 @@
   - Frontend: React.js
   - Backend: Node.js, Express.js
   - Database: MongoDB
-  - CSS: SASS/SCSS, Tailwind Css
-  - Tools: Git, VS Code, Postman, Webpack
+  - CSS: Bootstrap 5, Tailwind Css
+  - Tools: Git, VS Code, Postman
 
 **🔨 What I do:**
   - Design and develop responsive web applications
